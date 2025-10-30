@@ -26,13 +26,12 @@ Figure 2: Series Battery Combination Simulation Circuit
 > - Step 4: Click the **“Start Simulation”** button to see the result.
 
 ```
-**1.2.	Learning Reflection**
+1.2.	Learning Reflection
 
 Write a brief note about the results of the Series Battery Combination simulation.
+
+
 ```
-
-
-
 
 ### 2.	Simulation 2: Simulating Parallel Battery Combination
 
@@ -46,8 +45,7 @@ Figure 3: Parallel Battery Combination Circuit Diagram
 
 <img width="263" height="368" alt="image" src="https://github.com/user-attachments/assets/5ea16308-9fea-401d-8733-5bcf7c3fa577" />
 
-Figure 4: Parallel Battery Combination Simulation Circuit
-
+Figure 4: Parallel Battery Combination Simulation Circui
 
 > - Step 1: Select and drop four batteries (1.5V), a multimeter and a breadboard.
 > - Step 2: Connect the positive and negative terminals of the batteries as shown in the above figure. (Positive terminals of the batteries in one point and the negative terminals in another point.)
@@ -58,6 +56,7 @@ Figure 4: Parallel Battery Combination Simulation Circuit
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of the Parallel Battery Combination simulation.
+
 
 ```
 ### 3.	Simulation 3: Simulating a simple electric circuit
@@ -84,6 +83,7 @@ Figure 6: Simple simulation Circuit
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
+
 
 ```
 
