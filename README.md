@@ -2,13 +2,14 @@
 
 ## **Online Circuit Simulation**
 
+For this workshop, you will be working with 5 simulation and make some observations in the simulation.
+So, your task is to provide answers to `What are the observations you have made in the simulation?` and `What is your conclusion from the observations made in the simulation?`
+
 ``Go to the Tinkercad Web App (https://www.tinkercad.com/), login and simulate the circuit as given requirements.``
 
-### **1.	Simulation 1: Simulating Series Battery Combination**
+### Simulation 1: Simulating Series Battery Combination
 
-**1.1.	Simulation**
-
-Refer to the given circuit diagrams and mentioned steps to simulate an electric circuit with a serial combination of batteries.
+Refer to the given `circuit diagrams` and mentioned steps to simulate an electric circuit with a serial combination of batteries.
 
 <img width="362" height="190" alt="image" src="https://github.com/user-attachments/assets/413c199b-6001-428a-8e6d-302e0a8a8b82" />
 
@@ -20,22 +21,19 @@ Figure 2: Series Battery Combination Simulation Circuit
 
 ``Note: The colour of the wires can be customized as your own preferences.``
 
-> - Step 1: Select and drop four batteries (1.5V) and a multimeter.
-> - Step 2: Connect the terminal of batteries as shown in the above figure. (Positive terminal of one battery with the negative terminal of another.)
+> - Step 1: Select and drop four `BATTERIES` (1.5V) and a `MULTIMETER`.
+> - Step 2: Connect the terminal of batteries as shown in the above figure. (Positive terminal of one battery with the negative terminal of another battery.)
 > - Step 3: Connect the end positive and negative terminals of the battery pack to the appropriate probe of the multimeter
 > - Step 4: Click the **“Start Simulation”** button to see the result.
 
+### Learning Reflection 1: Series Battery Combination simulation.
 ```
-1.2.	Learning Reflection
-
 Write a brief note about the results of the Series Battery Combination simulation.
 
 
 ```
 
-### 2.	Simulation 2: Simulating Parallel Battery Combination
-
-**2.1.	Simulation**
+### Simulation 2: Simulating Parallel Battery Combination
 
 Refer to the given circuit diagrams and mentioned steps to simulate an electric circuit with a parallel combination of batteries.
 
@@ -52,14 +50,13 @@ Figure 4: Parallel Battery Combination Simulation Circui
 > - Step 3: Connect the positive and negative terminals of the battery pack to the appropriate probe of the multimeter
 > - Step 4: Click the “Start Simulation” button to see the result.
 
+### Learning Reflection 2: Parallel Battery Combination simulation.
 ```
-**2.2.	Learning Reflection**
-
 Write a brief note about the results of the Parallel Battery Combination simulation.
 
 
 ```
-### 3.	Simulation 3: Simulating a simple electric circuit
+### Simulation 3: Simulating a simple electric circuit
 **3.1.	Simulating a simple electric circuit by connecting components directly.**
 
 Refer to the given circuit diagrams and mentioned steps to simulate a simple electric circuit.
@@ -79,9 +76,8 @@ Figure 6: Simple simulation Circuit
 > - Step 3: Click the “Start Simulation” button and then click on the switch to see the result.
 > - Step 4: Change the resistor's resistance to see if it affects the LED's intensity. 
 
+### Learning Reflection 3.1: A Simple electric circuit by connecting components directly
 ```
-**2.2.	Learning Reflection**
-
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
 
 
@@ -95,25 +91,35 @@ Write a brief note about the results of simulating a simple electric circuit by 
 
 Figure 7: Using a breadboard to connect components.
 
+### Learning Reflection 3.2: Changing the resistor’s resistance in the simulation
 ```
-**3.2.	Learning Reflection**
-
-Write a brief note on the results observed while changing the resistor’s resistance in the simulation. What about direction of LED connected?
+Write a brief note on the results observed while changing the resistor’s resistance in the simulation.
+What about direction of LED connected?
 
 
 ```
-### 4.	Simulation 4: Simulating Voltage Divider Circuit
+### Simulation 4: Simulating Voltage Divider Circuit
 Create a corresponding circuit with specific components as shown in the following circuit diagram and try to simulate the circuit.
 
 <img width="473" height="437" alt="image" src="https://github.com/user-attachments/assets/6fbab02c-1541-4636-a86b-e34d726b4981" />
-Figure 8: Voltage Divider Circuit
-  	
-Complete the provided circuit and verify Voltage divider Rule. Set 10 in Voltage and 5 as Current in the Power Supply.
+
+Figure 8: Voltage Divider Simulation Circuit
+
+<img width="209" height="305" alt="image" src="https://github.com/user-attachments/assets/22a83fee-8706-4f91-a8ae-da73dce64ab4" />                   <img width="199" height="229" alt="image" src="https://github.com/user-attachments/assets/2f311264-6e19-495f-9b6f-6910da7c2059" />
+
+Figure 9: Voltage Divider Circuit	
+
+<img width="235" height="82" alt="image" src="https://github.com/user-attachments/assets/a8136271-c985-4cfa-9604-de849150baa7" />
+
+Figure 10: Voltage Divider Circuit Formula
+
+Complete the provided circuit and verify Voltage Divider Rule. 
+- Set 10 in Voltage and 5 as Current in the Power Supply.
 
 1.	Change the Resistance Value R2 (Connected to GND/ 0 V) where R1 is set at `1 Kohm`
 2.	Calculate the Output Voltage according to Voltage Divider Formula:
    
-`Voltage Value Calculate together with Resistance Value with R2:`
+`Calculate Voltage Value together with Resistance Value with R2:`
 
 a.	R2: ________________ V: _____________    Measured Voltage: ________________
 
